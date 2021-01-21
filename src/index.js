@@ -4,7 +4,10 @@
 // - list of values: l<contents>e
 // - dictionary: d<contents>e
 //
-// Input: Cyberpunk 2077 is a nice but broken game.johnny2077{"error": "Cars are flying over buildings", "code": "ABC42"}
+// Expected output:
+// - Cyberpunk 2077 is a nice but broken game.
+// - ["johnny", 2077]
+// - {"error": "Cars are flying over buildings", "code": 442}
 
 const INPUT = "36:Cyberpunk is a nice but broken game.l6:johnnyi2077eed5:error30:Cars are flying over buildings4:codei442ee";
 const STRING_DELIMITER = ":";
