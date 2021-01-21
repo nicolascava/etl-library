@@ -1,5 +1,7 @@
 # Node Bencode
 
+> Takes a bencoded string as an input to output the corresponding converted types
+
 ## Getting Started
 
 Install NVM:
@@ -7,12 +9,6 @@ Install NVM:
 
 Install Node.js v15.5.0:
 > nvm install 15.5.0
-
-Install YVM:
-> curl -s https://raw.githubusercontent.com/tophat/yvm/master/scripts/install.js | node
-
-Install Yarn:
-> yvm install latest
 
 ## Execute
 
