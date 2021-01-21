@@ -20,6 +20,11 @@ nvm install 15.5.0
 node ./src/index.js
 ```
 
+From this bencoded input:
+```
+36:Cyberpunk is a nice but broken game.l6:johnnyi2077eed5:error30:Cars are flying over buildings4:codei442ee
+```
+
 It should output:
 ```
 Cyberpunk is a nice but broken game.
