@@ -2,22 +2,30 @@
 
 > Takes a bencoded string as an input to output the corresponding converted types
 
-## Getting Started
+## Getting started
 
 Install NVM:
-> curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh | bash
+```
 
 Install Node.js v15.5.0:
-> nvm install 15.5.0
+```
+nvm install 15.5.0
+```
 
 ## Execute
 
-> node ./src/index.js
+```
+node ./src/index.js
+```
 
 It should output:
-> Cyberpunk is a nice but broken game.\
-> ["johnny",2077]\
-> {"error":"Cars are flying over buildings","code":442}
+```
+Cyberpunk is a nice but broken game.
+["johnny",2077]
+{"error":"Cars are flying over buildings","code":442}
+```
 
 ## License
 
