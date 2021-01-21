@@ -15,10 +15,9 @@ Install Node.js v15.5.0:
 > node ./src/index.js
 
 It should output:
-> Cyberpunk is a nice but broken game.
-> ["johnny",2077]
+> Cyberpunk is a nice but broken game.\
+> ["johnny",2077]\
 > {"error":"Cars are flying over buildings","code":442}
->
 
 ## License
 
