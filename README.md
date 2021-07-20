@@ -1,6 +1,7 @@
 # Node Bencode
 
 > Takes a bencoded string as an input to output the corresponding converted types
+> ❌ Sorry, but this library is no longer maintained. Please find an alternative.
 
 ## Getting started
 
