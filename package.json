@@ -1,6 +1,6 @@
 {
   "name": "node-bencode",
-  "description": "Takes a bencoded string as an input to output the corresponding converted types",
+  "description": "[UNMAINTAINED] Takes a bencoded string as an input to output the corresponding converted types",
   "version": "1.0.0",
   "devDependencies": {},
   "dependencies": {}
